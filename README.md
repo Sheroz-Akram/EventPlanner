@@ -24,7 +24,7 @@ The application uses a .env file to manage environment-specific configurations. 
 
 - **VITE_BASE_URL:** The base URL for the backend API. This should be updated if the API endpoint changes.
 
-- **VITE_BASE_URL:** A unique tenant identifier in GUID format. This is crucial for multi-tenancy support.
+- **VITE_TENANT_ID:** A unique tenant identifier in GUID format. This is crucial for multi-tenancy support.
 
 Ensure that the TENANT_ID provided is a valid GUID. Although no additional information is stored about a tenant, this ID is essential for data segregation.
 
