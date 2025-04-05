@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|solutionrelative:eventplanner.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|solutionrelative:eventplanner.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "EventPlanner.WebAPI\\Program.cs",
@@ -31,8 +35,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T06:13:55.222Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -40,7 +43,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PingController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Controllers\\PingController.cs",
+              "RelativeDocumentMoniker": "EventPlanner.WebAPI\\Controllers\\PingController.cs",
+              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Controllers\\PingController.cs",
+              "RelativeToolTip": "EventPlanner.WebAPI\\Controllers\\PingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:24:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Domain\\Entity\\Event.cs",
               "RelativeDocumentMoniker": "EventPlanner.Domain\\Entity\\Event.cs",
