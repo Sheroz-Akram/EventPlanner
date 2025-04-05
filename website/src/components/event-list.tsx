@@ -222,7 +222,7 @@ export function EventList({ onEdit, onDelete }: EventListProps) {
                         pagination={{
                             current: currentPage,
                             pageSize,
-                            total: events.length,
+                            total: responseData?.result.totalRecords,
                             showSizeChanger: true,
                             onChange: (page, size) => {
                                 setCurrentPage(page);
