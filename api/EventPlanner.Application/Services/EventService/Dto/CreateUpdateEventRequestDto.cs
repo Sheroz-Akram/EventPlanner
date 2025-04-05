@@ -12,6 +12,7 @@ namespace EventPlanner.Application.Services.EventService.Dto
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         public List<CreateUpdateRequestInvites> Invites { get; set; } = new();
+
     }
 
     public class CreateUpdateRequestInvites

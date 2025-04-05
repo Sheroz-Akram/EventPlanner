@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|solutionrelative:eventplanner.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C25F15C5-1311-42FF-AF5A-2190EDE6FC74}|EventPlanner.Test\\EventPlanner.Test.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.test\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25F15C5-1311-42FF-AF5A-2190EDE6FC74}|EventPlanner.Test\\EventPlanner.Test.csproj|solutionrelative:eventplanner.test\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9195F5E-E0EE-481C-B84D-B4BBAC5FF134}|EventPlanner.WebAPI\\EventPlanner.WebAPI.csproj|solutionrelative:eventplanner.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA2732AD-8FF7-459A-8BB7-EA0D1F736062}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.application\\services\\eventservice\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2732AD-8FF7-459A-8BB7-EA0D1F736062}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\eventservice\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2732AD-8FF7-459A-8BB7-EA0D1F736062}|EventPlanner.Application\\EventPlanner.Application.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.application\\services\\eventservice\\dto\\createupdateeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2732AD-8FF7-459A-8BB7-EA0D1F736062}|EventPlanner.Application\\EventPlanner.Application.csproj|solutionrelative:eventplanner.application\\services\\eventservice\\dto\\createupdateeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E31AB7C8-56DD-4C56-9FA5-1BE27B00C921}|EventPlanner.Domain\\EventPlanner.Domain.csproj|c:\\users\\sheroz akram\\documents\\github\\eventplanner\\api\\eventplanner.domain\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,49 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EventPlanner.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Program.cs",
-              "RelativeToolTip": "EventPlanner.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:13:55.222Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PingController.cs",
-              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Controllers\\PingController.cs",
-              "RelativeDocumentMoniker": "EventPlanner.WebAPI\\Controllers\\PingController.cs",
-              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.WebAPI\\Controllers\\PingController.cs",
-              "RelativeToolTip": "EventPlanner.WebAPI\\Controllers\\PingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateUpdateEventRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Application\\Services\\EventService\\Dto\\CreateUpdateEventRequestDto.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\EventService\\Dto\\CreateUpdateEventRequestDto.cs",
+              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Application\\Services\\EventService\\Dto\\CreateUpdateEventRequestDto.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\EventService\\Dto\\CreateUpdateEventRequestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:24:17.577Z",
+              "WhenOpened": "2025-04-05T11:30:55.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Application\\Services\\EventService\\EventService.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Application\\Services\\EventService\\EventService.cs",
+              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Application\\Services\\EventService\\EventService.cs",
+              "RelativeToolTip": "EventPlanner.Application\\Services\\EventService\\EventService.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAkwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:16:46.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Test\\EventServiceTests.cs",
+              "RelativeDocumentMoniker": "EventPlanner.Test\\EventServiceTests.cs",
+              "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Test\\EventServiceTests.cs",
+              "RelativeToolTip": "EventPlanner.Test\\EventServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:15:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Domain\\Entity\\Event.cs",
               "RelativeDocumentMoniker": "EventPlanner.Domain\\Entity\\Event.cs",
               "ToolTip": "C:\\Users\\Sheroz Akram\\Documents\\GitHub\\EventPlanner\\api\\EventPlanner.Domain\\Entity\\Event.cs",
               "RelativeToolTip": "EventPlanner.Domain\\Entity\\Event.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:48:52.103Z"
+              "WhenOpened": "2025-04-05T08:48:52.103Z",
+              "EditorCaption": ""
             }
           ]
         }
